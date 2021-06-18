@@ -1,0 +1,43 @@
+[
+   {
+     "title": "Buckingham Fountain",
+     "desc": "Buckingham Fountain is a Chicago Landmark in the center of Grant Park, and between Queen's Landing and Congress Parkway.",
+     "address": "301 S Columbus Dr, Chicago, IL 60605",
+     "geo": { "lat": 0, "lon": 0 },
+     "images": ["buckingham-fountain.png"],
+     "features": ["outdoors", "art"],
+     "hours": "24 hours"
+   },
+   {
+     "title": "Chicago Riverwalk",
+     "desc": "The Chicago Riverwalk is a multi-use public space located on the south bank of the main branch of the Chicago River, extending from Lake Shore Drive and Lake Michigan to Lake Street.",
+     "address": "Chicago Riverwalk, Chicago, IL 60601",
+     "geo": { "lat": 0, "lon": 0 },
+     "images": ["chicago-riverwalk.jpeg"],
+     "features": ["outdoors", "toilet"],
+     "hours": "6AM–11PM"
+   },
+   {
+     "title": "Lincoln Park Zoo",
+     "desc": "Lincoln Park Zoo is a 35-acre zoo in Lincoln Park, Chicago, Illinois",
+     "address": "2001 N Clark St, Chicago, IL 60614",
+     "geo": { "lat": 0, "lon": 0 },
+     "images": ["lincoln-zoo.jpeg"],
+     "website": "https://www.lpzoo.org/",
+     "features": ["outdoors"],
+     "hours": "10AM–5PM"
+   },
+   {
+     "title": "Metric Coffee Co.",
+     "desc": "Industrial-chic spot featuring house-roasted beans brewed in hot or cold drinks.",
+     "address": "2021 W Fulton St suite k-101b, Chicago, IL 60612",
+     "geo": { "lat": 0, "lon": 0 },
+     "images": ["metric-coffee.jpeg"],
+     "opens": "10am",
+     "closes": "5pm",
+     "features": ["outdoors", "coffee"],
+     "hours": "7AM-4PM"
+   }
+ ]
+
+ 
