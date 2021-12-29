@@ -331,7 +331,6 @@ Then you will need to edit `PLACESSpace.js` and create a new element in the comp
 ```js
 // deconstruct hours here
 const places = data.map(({ title, address, images, hours }) => {
->
   return (
     <PLACESSpace
       key={title}
